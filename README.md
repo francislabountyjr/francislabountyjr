@@ -7,10 +7,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python
+- 💻 &nbsp; Python | C++ | CUDA
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL | PostgreSQL
-- 🔧 &nbsp; PyCharm | Visual Studio code | Git
+- 🔧 &nbsp; PyCharm | Visual Studio code | Visual Studio | Git
 - 🖥 &nbsp; Blender | Photoshop | Substance Painter
 
 <br>
