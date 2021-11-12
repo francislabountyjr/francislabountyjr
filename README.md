@@ -11,7 +11,7 @@
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL | PostgreSQL
 - 🔧 &nbsp; PyCharm | Visual Studio code | Visual Studio | Git
-- 🖥 &nbsp; Blender | Photoshop | Substance Painter
+- 🖥 &nbsp; Blender | Zbrush | Photoshop | Substance Painter
 
 <br>
 
