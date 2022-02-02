@@ -3,7 +3,7 @@
 <h3> About Me </h3>
 
 - 💼 &nbsp; Data scientist and 3D artist/addon developer.
-- 🌱 &nbsp; Enthusiast in machine learning and 3D modeling. Currently studying C++ and CUDA.
+- 🌱 &nbsp; Enthusiast in machine learning and 3D modeling.
 
 <h3>🛠 Tech Stack</h3>
 
