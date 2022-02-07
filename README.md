@@ -9,7 +9,7 @@
 
 - 💻 &nbsp; Python | C++ | CUDA
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | PostgreSQL
+- 🛢 &nbsp; MySQL | PostgreSQL | MongoDB
 - 🔧 &nbsp; PyCharm | Visual Studio code | Visual Studio | Git
 - 🖥 &nbsp; Blender | Zbrush | Photoshop | Substance Painter
 
