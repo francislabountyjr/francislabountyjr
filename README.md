@@ -2,8 +2,7 @@
 
 <h3> About Me </h3>
 
-- 💼 &nbsp; AI Developer/Data scientist and 3D artist/hobbyist.
-- 🌱 &nbsp; Enthusiast in machine learning and 3D modeling.
+- 💼 &nbsp; AI/Python Developer.
 
 <h3>🛠 Tech Stack</h3>
 
@@ -11,7 +10,6 @@
 - 🌐 &nbsp; Nuxt | JavaScript | Typescript
 - 🛢 &nbsp; PostgreSQL | MySQL | MongoDB
 - 🔧 &nbsp; Visual Studio code | Visual Studio | Git
-- 🖥 &nbsp; Blender | Zbrush | Photoshop | Substance Painter
 
 <br>
 
